@@ -1,6 +1,6 @@
 # Face Detection using Haar Cascades with OpenCV and Matplotlib
-## Name : SAJITH AHAMED F
-## Reg No : 212223240144
+## Name : Vikaash P
+## Reg No : 212223240180
 ## Aim
 
 To write a Python program using OpenCV to perform the following image manipulations:  
